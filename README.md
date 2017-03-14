@@ -1,4 +1,4 @@
-# TigerVideo
+# NovateVideo
 
 此App是为了练习Android视频播放而完成的。
 
