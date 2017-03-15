@@ -23,7 +23,7 @@ Mosby(一个MVP框架)、RxJava、Retrofit2、ButterKnife、Glide、Systembartin
 <img src="screenshots/3.jpg" width = "360" height = "640" alt=""/>
 <img src="screenshots/4.jpg" width = "360" height = "640" alt=""/>
 <img src="screenshots/5.jpg" width = "640" height = "360" alt=""/>
-<img src="screenshots/6.jpg" width = "360" height = "640" alt=""/>
+
 
 # 安装Demo
 [点击下载](http://fir.im/7qpv)
