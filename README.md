@@ -28,7 +28,7 @@ Mosby(一个MVP框架)、RxJava、Retrofit2、ButterKnife、Glide、Systembartin
 # 安装Demo
 [点击下载](https://fir.im/unkl)
 
-<img src="screenshots/NovateVideo.jpg">
+<img src="screenshots/NovateVideo.jpg" width = "200" height = "200" alt="">
 
 # 声明
 本项目使用的视频数据分别来自于网易，头条快报，凤凰视频，在此表示感谢，视频数据API版权归原所属公司所有，请勿用于其他用途！若内容有侵权请联系本人进行删除处理，本项目仅供测试学习使用，他人不得滥用其中数据API，他人用于其他用途所造成的纠纷与本人无关。
